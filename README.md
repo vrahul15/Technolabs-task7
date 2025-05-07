@@ -30,16 +30,6 @@ The program calculates your "dog age" and prints a friendly message with your na
 
 ---
 
-## 💡 Example Output
-
-```
-21
-72
-My name is mohammad waris. I am 20 years old in human years which is 93 years old in dog years.
-```
-
----
-
 ## 📂 Project Structure
 
 ```
